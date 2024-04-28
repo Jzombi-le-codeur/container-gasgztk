@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "Jzombi-le-codeur",
+  "repo": "container-gasgztk",
+  "name": "Jzombi-le-codeur",
+  "email": "77932002+Jzombi-le-codeur@users.noreply.github.com",
+}
